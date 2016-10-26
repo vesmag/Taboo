@@ -1,4 +1,5 @@
 # Taboo
+Taboo igra za Android
 
 Taboo je igra objašnjavanja zadane riječi bez korištenja zabranjenih (tabu) riječi na kartici.
 
@@ -10,6 +11,8 @@ U opcijama igre moguće je namjestiti vrijeme trajanja runde (30, 60, 120 ili 18
 Veljača 2016.
 
 ----------------
+Taboo game for Android
+
 Taboo is a word guessing game played in teams: the objective of the game is for a player to have their teammates guess the given word without using four forbidden words listed on the screen.
 Whether they suceeded or not, player chooses "Right" or "Wrong" button on the screen. On the end of one round, the application lists how many words were guessed and how many were not.
 

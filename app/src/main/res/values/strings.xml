@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Taboo</string>
+
+    <string name="postavi_vrijeme">Vrijeme objašnjavanja</string>
+    <string-array name="time_array">
+        <item>30 sec</item>
+        <item>1 min</item>
+        <item>1.5 min</item>
+        <item>2 min</item>
+    </string-array>
+
+    <string name="gotovo">Igra je gotova!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="pojmovi">
+        <item>Šljivovica,Rakija,Alkohol,Nazdraviti,Aperitiv</item>
+        <item>Bazen,Voda,Badekostim,Naočale,Plivati</item>
+        <item>Olovka,Pisati,Mina,Drvo,Našiljiti</item>
+        <item>Grafit,Sprej,Boja,Zid,Vandali</item>
+        <item>Srce,Organ,Pumpa,Krv,Ljubav</item>
+        <item>Balon,Zrak,Tulum,Helij,Napuhati</item>
+        <item>Pljačka,Novci,Lopov,Policija,Pobjeći</item>
+        <item>Račun,Restoran,Novci,Kupiti,Platiti</item>
+        <item>Pahulja,Snijeg,Zima,Hladno,Bijelo</item>
+        <item>Sir,Hrana,Miš,Žuto,Pizza</item>
+        <item>Wok,Kuhanje,Tava,Kina,Povrće</item>
+    </string-array>
+    <string name="title_activity_2">Taboo</string>
+    <string name="title_activity_final">Taboo</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_start">Taboo</string>
+    <string name="title_activity_opcije">Taboo</string>
+</resources>

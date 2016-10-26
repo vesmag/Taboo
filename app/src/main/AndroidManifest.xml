@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hr.math.taboo" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/taboo3"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Start"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Final"
+            android:label="@string/title_activity_final" >
+        </activity>
+        <activity
+            android:name=".Igra"
+            android:label="Igra" >
+        </activity>
+        <activity
+            android:name=".Opcije"
+            android:label="@string/title_activity_opcije" >
+        </activity>
+    </application>
+
+</manifest>

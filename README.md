@@ -15,4 +15,6 @@ Whether they suceeded or not, player chooses "Right" or "Wrong" button on the sc
 
 It is possible to adjust the time given for one round in the options menu (30, 60, 120 or 180 seconds).
 
+For now, the game can only be played in Croatian.
+
 February 2016

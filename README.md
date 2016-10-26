@@ -8,7 +8,7 @@ Aplikacija zbraja sve pogođene i sve preskočene riječi te ih na kraju runde p
 
 U opcijama igre moguće je namjestiti vrijeme trajanja runde (30, 60, 120 ili 180 sekundi).
 
-Veljača 2016.
+*Veljača 2016.*
 
 ----------------
 Taboo game for Android
@@ -20,4 +20,4 @@ It is possible to adjust the time given for one round in the options menu (30, 6
 
 For now, the game can only be played in Croatian.
 
-February 2016
+*February 2016*
